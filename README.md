@@ -76,7 +76,7 @@ Work developed in the Advanced Informatic Tools subject from Master of Atomistic
 
 **Universitat de Barcelona**
 
-![Logo UPC](./UPC.png width="320")
+![Logo UPC](./UPC.png width="320px")
 
 **Universitat Politècnica de Catalunya**
 
