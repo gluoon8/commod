@@ -20,8 +20,7 @@ To execute the program, there are some pre-requisites:
   - Numpy (https://numpy.org/install/)
   - Matplotlib (https://matplotlib.org/stable/users/installing/index.html)
 
-> [!IMPORTANT]
-> Current features are only available for serial code, parallel code is WIP!
+
 
 
 ## How to
@@ -40,6 +39,9 @@ make run
 make plot
 ```
 And files will appear in your main directory!
+
+> [!IMPORTANT]
+> Current features are only available for serial code, parallel code is WIP!
 
 > [!TIP]
 > There are some ways to clean generated files, have a look at `make clean`, `make cleandata` and `make cleanplot`.
