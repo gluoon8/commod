@@ -24,7 +24,7 @@ To execute the program, there are some pre-requisites:
 
 1. Clone repository to your local host
 2. Use `make` or `make help` to see the available commands.
-3. Before starting a simulation, change your parameters in *XXXX* file  
+3. Before starting a simulation, change your parameters in *namMD.nml* file  
 4. To carry out the simulation, use `make run` and the program will be compiled and run. 
 5. Data is generated in *.dat* files. If you want to generate figures, use `make plot`
 
