@@ -73,10 +73,16 @@ And files will appear in your main directory!
 
 Work developed in the Advanced Informatic Tools subject from [Master of Atomistic and Multiscale Computational Modelling in Physics, Chemistry and Biochemistry](http://www.ub.edu/computational_modelling/).
 
-| UB | UPC |
-|---|---|
-| ![Logo UB](./UB.png) | ![Logo UPC](./UPC.png) |
-| Universitat de Barcelona | Universitat Politècnica de Catalunya |
+<table align="center">
+  <tr>
+    <td><img src="./UB.png" alt="Logo UB"></td>
+    <td><img src="./UPC.png" alt="Logo UPC"></td>
+  </tr>
+  <tr>
+    <td>Universitat de Barcelona</td>
+    <td>Universitat Politècnica de Catalunya</td>
+  </tr>
+</table>
 
 
 
