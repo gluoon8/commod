@@ -6,7 +6,7 @@ This project involves the development of a simple molecular dynamics program to 
 ## Team Members and Responsibilities
 
 4. **Anna Monclús (@anna-mr98)**:  Initialize the configuration and define boundary conditions. Also coordinates the GitHub repository.
-1. **Aina Gaya (@ainagaya) **: Integration Newton's equations.
+1. **Aina Gaya (@ainagaya)**: Integration Newton's equations.
 2. **Albert Plazas (@Alplalo)**: Compute the forces for a Van der Waals interaction.
 3. **Manel Serrano (@gluoon8)**:  Post-processing of data, statistics, and visualization.
 
@@ -71,9 +71,9 @@ And files will appear in your main directory!
 | ![anna-mr98](https://github.com/Eines-Informatiques-Avancades/Project-III/tree/master/docs/anna-mr98.png "anna-mr98") | ![ainagaya](https://github.com/Eines-Informatiques-Avancades/Project-III/tree/master/docs/ainagaya.png "ainagaya") | ![Alplalo](https://github.com/Eines-Informatiques-Avancades/Project-III/tree/master/docs/Alplalo.png "Alplalo") | ![gluoon8](https://github.com/Eines-Informatiques-Avancades/Project-III/tree/master/docs/gluoon8.png "gluoon8") |
 | [anna-mr98](https://github.com/anna-mr98)                                 | [ainagaya](https://github.com/ainagaya)| [Alplalo](https://github.com/Alplalo)                                  | [gluoon8](https://github.com/gluoon8)                                  |
 
-Work developed in the Advanced Informatic Tools subject from Master of Atomistic and Multiscale Computational Modelling in Physics, Chemistry and Biochemistry
+Work developed in the Advanced Informatic Tools subject from [Master of Atomistic and Multiscale Computational Modelling in Physics, Chemistry and Biochemistry](http://www.ub.edu/computational_modelling/).
 
-| Logo UB | Logo UPC |
+| UB | UPC |
 |---|---|
 | ![Logo UB](./UB.png) | ![Logo UPC](./UPC.png) |
 | Universitat de Barcelona | Universitat Politècnica de Catalunya |
