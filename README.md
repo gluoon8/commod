@@ -13,18 +13,17 @@ This project involves the development of a simple molecular dynamics program to 
 
 ## Prerequisites
 To execute the program, there are some pre-requisites:
-    - Make: to execute the program
-    - Gfortran: to run the MD simulation. 
-    - Python: to generate the plots after simulation
-        - Numpy (https://numpy.org/install/)
-        - Matplotlib (https://matplotlib.org/stable/users/installing/index.html)
+- Make: to execute the program
+- Gfortran: to run the MD simulation. 
+- Python: to generate the plots after simulation
+  - Numpy (https://numpy.org/install/)
+  - Matplotlib (https://matplotlib.org/stable/users/installing/index.html)
 
 
 ## How to
 
 1. Clone repository to your local host
-2. 
-`git fetch lider && git pull lider master`
+2. `git fetch lider && git pull lider master`
 
 
 ## Contributors
