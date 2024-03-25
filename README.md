@@ -40,7 +40,7 @@ To execute the program, there are some pre-requisites:
   - `make run`: Compiles needed files and also runs the program.     
  
   - `make plot`: Plots the output data:                              
-   - Epot, Ekin, Etot vs time                                   
+     - Epot, Ekin, Etot vs time                                   
      - Momentum vs time                                           
      - T vs time                                                  
      - Pressure vs time                                           
