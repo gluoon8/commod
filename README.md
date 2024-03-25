@@ -28,6 +28,15 @@ To execute the program, there are some pre-requisites:
 4. To carry out the simulation, use `make run` and the program will be compiled and run. 
 5. Data is generated in *.dat* files. If you want to generate figures, use `make plot`
 
+*Quick guide*
+
+To carry out a simulation after choosing parameters in *namMD.nml* file you can use:
+```
+make run
+make plot
+```
+And files will appear in your main directory!
+
 > [!TIP]
 > There are some ways to clean generated files, have a look at `make clean`, `make cleandata` and `make cleanplot`.
 
@@ -61,5 +70,14 @@ To execute the program, there are some pre-requisites:
 | ![anna-mr98](https://github.com/Eines-Informatiques-Avancades/Project-III/tree/master/docs/anna-mr98.png "anna-mr98") | ![ainagaya](https://github.com/Eines-Informatiques-Avancades/Project-III/tree/master/docs/ainagaya.png "ainagaya") | ![Alplalo](https://github.com/Eines-Informatiques-Avancades/Project-III/tree/master/docs/Alplalo.png "Alplalo") | ![gluoon8](https://github.com/Eines-Informatiques-Avancades/Project-III/tree/master/docs/gluoon8.png "gluoon8") |
 | [anna-mr98](https://github.com/anna-mr98)                                 | [ainagaya](https://github.com/ainagaya)| [Alplalo](https://github.com/Alplalo)                                  | [gluoon8](https://github.com/gluoon8)                                  |
 
+Work developed in the Advanced Informatic Tools subject from Master of Atomistic and Multiscale Computational Modelling in Physics, Chemistry and Biochemistry
+
+![Logo UB](./UB.png)
+
+**Universitat de Barcelona**
+
+![Logo UPC](./UPC.png)
+
+**Universitat Politècnica de Catalunya**
 
 
