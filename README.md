@@ -1,6 +1,6 @@
-|  Marc Alsina   |  Maitane Fariñas  |  Diego Ontiveros   |  Emma Valdés  |
+|  Anna Monclús  |  Aina Gaya  |  Albert Plazas   |  Manel Serrano  |
 | -------------- | ----------------- | ------------------ | ------------- |
-| ![malsinac](https://github.com/malsinac.png "malsinac") | ![maitanefarinas](https://github.com/maitanefarinas.png "maitanefarinas") | ![diegonti](https://github.com/diegonti.png "diegonti") | ![evaldesmartin](https://github.com/evaldesmartin.png "evaldesmartin") |
-| [malsinac](https://github.com/malsinac)                                 | [maitanefarinas](https://github.com/maitanefarinas)| [diegonti](https://github.com/diegonti)                                  | [emma](https://github.com/evaldesmartin)                                  |
+| ![anna-mr98](https://github.com/malsinac.png "anna-mr98") | ![ainagaya](https://github.com/maitanefarinas.png "ainagaya") | ![Alplalo](https://github.com/diegonti.png "Alplalo") | ![gluoon8](https://github.com/gluoon8.png "gluoon8") |
+| [anna-mr98](https://github.com/anna-mr98)                                 | [ainagaya](https://github.com/ainagaya)| [Alplalo](https://github.com/Alplalo)                                  | [gluoon8](https://github.com/gluoon8)                                  |
 
-For further questions please refer to the main resposible of this project: [malsinac](https://github.com/malsinac) 
+
