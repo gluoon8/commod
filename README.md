@@ -5,10 +5,11 @@ This project involves the development of a simple molecular dynamics program to 
 
 ## Team Members and Responsibilities
 
-1. **Aina Gaya**: Integration Newton's equations.
-2. **Albert Plazas**: Compute the forces for a Van der Waals interaction.
-3. **Manel Serrano**:  Post-processing of data, statistics, and visualization.
-4. **Anna Monclús**:  Initialize the configuration and define boundary conditions. Also coordinates the GitHub repository.
+4. **Anna Monclús (@anna-mr98)**:  Initialize the configuration and define boundary conditions. Also coordinates the GitHub repository.
+1. **Aina Gaya (@ainagaya) **: Integration Newton's equations.
+2. **Albert Plazas (@Alplalo)**: Compute the forces for a Van der Waals interaction.
+3. **Manel Serrano (@gluoon8)**:  Post-processing of data, statistics, and visualization.
+
 
 
 ## Prerequisites
@@ -28,7 +29,7 @@ To execute the program, there are some pre-requisites:
 4. To carry out the simulation, use `make run` and the program will be compiled and run. 
 5. Data is generated in *.dat* files. If you want to generate figures, use `make plot`
 
-*Quick guide*
+### Quick guide
 
 To carry out a simulation after choosing parameters in *namMD.nml* file you can use:
 ```
@@ -72,12 +73,10 @@ And files will appear in your main directory!
 
 Work developed in the Advanced Informatic Tools subject from Master of Atomistic and Multiscale Computational Modelling in Physics, Chemistry and Biochemistry
 
-![Logo UB](./UB.png)
+| Logo UB | Logo UPC |
+|---|---|
+| ![Logo UB](./UB.png) | ![Logo UPC](./UPC.png) |
+| Universitat de Barcelona | Universitat Politècnica de Catalunya |
 
-**Universitat de Barcelona**
-
-![Logo UPC](./UPC.png)
-
-**Universitat Politècnica de Catalunya**
 
 
