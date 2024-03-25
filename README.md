@@ -1,9 +1,15 @@
-# Project-III
+# Project-III: Simulation of a Van der Waals gas using Molecular Dynamics.
 
 ## Brief description of the project
-This project involves the development of a simple molecular dynamics program to simulate a Van der Waals gas of particles. The project requires collaborative work from all team members to ensure the successful implementation of a working program code. Each team member has a specific task that contributes to the overall functionality of the program.
+
+This project involves the development of a Molecular Dynamics code to simulate a Van der Waals gas, performing calculations in both serial and parallel modes.
+
+Additionally, this project requires collaborative work to ensure the proper functioning of the code.
+
 
 ## Team Members and Responsibilities
+
+Each team member has assigned tasks, which are indicated below:
 
 4. **Anna Monclús (@anna-mr98)**:  Initialize the configuration and define boundary conditions. Also coordinates the GitHub repository.
 1. **Aina Gaya (@ainagaya)**: Integration Newton's equations.
