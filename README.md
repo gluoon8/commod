@@ -37,20 +37,20 @@ To execute the program, there are some pre-requisites:
 
 - Commands:                                                       
   
-  - make run: Compiles needed files and also runs the program.     
+  - `make run`: Compiles needed files and also runs the program.     
  
-  - make plot: Plots the output data:                              
+  - `make plot`: Plots the output data:                              
    - Epot, Ekin, Etot vs time                                   
      - Momentum vs time                                           
      - T vs time                                                  
      - Pressure vs time                                           
-  - make all: Compiles the program and creates executable MD.exe   
+  - `make all`: Compiles the program and creates executable MD.exe   
  
-  - make clean: Removes the modules, objects and executable        
+  - `make clean`: Removes the modules, objects and executable        
 
-  - make cleandata: Removes data files                             
+  - `make cleandata`: Removes data files                             
  
-  - make cleanplot: Removes plot files                             
+  - `make cleanplot`: Removes plot files                             
  
 
 
